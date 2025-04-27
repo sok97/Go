@@ -1,0 +1,35 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build output directories
+_build/
+bin/
+
+# Go cache and modules
+*.log
+*.out
+*.test
+vendor/
+*.mod
+*.sum
+
+# Dependency directories
+node_modules/
+
+# .env file for environment variables
+.env
+
+# IDE-specific settings
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Git-related files
+*.swp
+*.swo
